@@ -10,7 +10,7 @@ Predictive analytics helps us a lot on this one. One of the many opportunities i
 We can build our strategy on top of that and come up with lots of tactical actions like: When fixing the other permanently stopped meters, service men could validate nearby potential failure meters as
 In this article, I will be explaining the smart meter data, characteristics and the how I approached to solved this problem using machine learning algorithms.
 
-In this Jupiter notebook, I will be explaining the smart meter data, characteristics and the how I approached to solved this problem using machine learning algorithms.
+In this Jupyter notebook, I will be explaining the smart meter data, characteristics and the how I approached to solved this problem using machine learning algorithms.
 
 
 
